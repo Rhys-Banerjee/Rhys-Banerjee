@@ -18,7 +18,7 @@ This was my first game developed with Godot. It's simple by design and challeges
 This is my next Godot game currently in progress. Once complete, it will be a momentum-based game, challenging players to speedrun numerous obstacle courses with a limited amount of time. I plan to release the game on Itch.io upon completion.
 
 ### [FlappyAI](https://github.com/Rhys-Banerjee/FlappyAI) :computer:
-This is a simple demonstration of NEAT AI which uses a PyGame-based recreation of the popular game, Flappy Bird, to create perfect gameplay. Watching the algorithm in effect is really mesmerizing to watch!
+This is a simple demonstration of the NEAT algorithm which uses a PyGame-based recreation of the popular game, Flappy Bird, to create perfect gameplay. Seeing the algorithm in effect is really mesmerizing to watch!
 
 
 <!--
