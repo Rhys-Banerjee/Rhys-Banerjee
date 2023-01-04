@@ -12,7 +12,7 @@ I'm a fourth-year student at Duke University studying Computer Science, minoring
 Some of my projects have to relate to gaming. I'm currently interested in the Godot video game engine because of its lightweight design and open-source development. 
 
 ### [Red Dash Frenzy](https://github.com/Rhys-Banerjee/RedDashFrenzy) :video_game:
-This was my first game developed with Godot. It's simple by design and challeges the player to complete difficult levels *without* the ability to jump. It's playable on [Itch.io](https://riceware.itch.io/red-dash-frenzy) as a browser-based game as well.
+This was my first game developed with Godot. It's simple by design and challenges the player to complete difficult levels *without* the ability to jump. It's playable on [Itch.io](https://riceware.itch.io/red-dash-frenzy) as a browser-based game as well.
 
 ### [Bowling Bash](https://github.com/Rhys-Banerjee/BowlingBash) :bowling:
 This is my next Godot game currently in progress. Once complete, it will be a momentum-based game, challenging players to speedrun numerous obstacle courses with a limited amount of time. I plan to release the game on Itch.io upon completion.
