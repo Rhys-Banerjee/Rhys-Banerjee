@@ -3,7 +3,7 @@
 I'm a fourth-year student at Duke University studying Computer Science, minoring in mathematics, and pursuing a concentration in AI and Machine Learning. I've worked multiple internships as a software engineer, and this is where you can find some of my personal projects.
 
 - :computer: I'm interested in video game programming, artificial intelligence, machine learning, and software development.
-- :chart_with_upwards_trend: I'm currently learning about computer vision.
+- 🤖: I'm currently learning about computer vision.
 - :musical_keyboard: For fun I like to draw cartoons in Clip Studio Paint and create animations in Adobe Flash CS6! I'm also a big fan of music, and I play the piano in my spare time.
 - 😄 My name is pronounced "Reese Ban-ur-jee".
 - :clipboard: Access an up-to-date resumé [here](https://github.com/Rhys-Banerjee/Rhys-Banerjee/blob/main/Urjit%20Rhys%20Banerjee%20CV%20Aug%202022.3.pdf).
