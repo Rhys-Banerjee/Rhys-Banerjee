@@ -1,6 +1,6 @@
 # Welcome to my GitHub! I'm Rhys 👋
 
-I'm a fourth-year student at Duke University studying Computer Science, minoring in mathematics, and pursuing a concentration in AI and Machine Learning. I've worked multiple internships as a software engineer, and this is where you can find some of my personal projects.
+I'm a recent graduate from Duke University, where I majored in Computer Science, minored in mathematics, and pursued a concentration in AI and Machine Learning. I am additionally an incoming software engineer for Principal Financial. This is where you can find some of my personal projects.
 
 - :computer: I'm interested in video game programming, artificial intelligence, machine learning, and software development.
 - 🤖: I'm currently learning about computer vision.
