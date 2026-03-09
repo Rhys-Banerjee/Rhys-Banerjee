@@ -10,7 +10,7 @@ I'm a full-stack software engineer based in the NYC area. I'm a graduate from Du
 ## My Projects
 Some of my projects have to relate to gaming. I'm currently interested in the Godot video game engine because of its lightweight design and open-source development. 
 
-### [Vowel Mix[]()](https://github.com/Rhys-Banerjee/vowel-mix) 🔤
+### [Vowel Mix](https://github.com/Rhys-Banerjee/vowel-mix) 🔤
 My attempt at making a NYT-style word game. Currently a proof-of-concept. You're given a list of consonants, and must only use those consonants to form as many words as possible, inserting only vowels (A,E,I,O,U,Y). I know that Y is a "sometimes" vowel, but I figured it would make the game more fun! Play it on my [My portfolio](https://rhys-banerjee.github.io/vowel-mix.html). 
 
 ### [Bowling Bash](https://github.com/Rhys-Banerjee/BowlingBash) :bowling:
