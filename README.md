@@ -5,7 +5,7 @@ I'm a full-stack software engineer based in the NYC area. I'm a graduate from Du
 - :computer: I'm interested in video game programming, artificial intelligence, machine learning, and software development. A lot of my projects on here are game-dev related.
 - :musical_keyboard: For fun I like to draw cartoons in Clip Studio Paint and create animations in Adobe Flash CS6! I'm also a big fan of music, and I play the piano in my spare time.
 - 😄 My name is pronounced "Reese Ban-ur-jee".
-- :clipboard: Access an up-to-date resumé [here](https://github.com/Rhys-Banerjee/Rhys-Banerjee/blob/main/Urjit%20Rhys%20Banerjee%20CV%20Aug%202022.3.pdf).
+- :clipboard: Access an up-to-date resumé [here](https://github.com/Rhys-Banerjee/Rhys-Banerjee/blob/main/SWEResume2026RhysBanerjee.pdf).
 
 ## My Projects
 Some of my projects have to relate to gaming. I'm currently interested in the Godot video game engine because of its lightweight design and open-source development. 
